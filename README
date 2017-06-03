@@ -2,3 +2,5 @@ Author:thippo	E-mail:thippo@163.com	Github:https://github.com/thippo	Web:http://
 
 ROC_curve	#ROC曲线
 Venn_Diagram	#venn图
+std_single	#一组显著性作图
+std_double	#两组显著性作图
