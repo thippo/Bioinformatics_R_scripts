@@ -4,3 +4,4 @@ ROC_curve	#ROC曲线
 Venn_Diagram	#venn图
 std_single	#一组显著性作图
 std_double	#两组显著性作图
+nonlinear_regression	#非线性回归拟合
